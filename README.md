@@ -20,7 +20,7 @@
 - Nuskaityti duomenis iš **dviejų DHT11** jutiklių
 - Atvaizduoti **drėgmę** OLED ekrane
 - Išvestis atnaujinama periodiškai kas 10s
-- Duomenys perduodami į kompiuterį per UART
+- Duomenys perduodami į kompiuterį per UART kas 1s
 ## Naudojamos bibliotekos
 
 - CubeMX sugeneruotas kodas
